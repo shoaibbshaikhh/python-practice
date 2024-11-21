@@ -16,3 +16,9 @@ c=a/b
 print("a=",a)
 print("b=",b)
 print("Result c=",c)
+
+# Output:
+# a= 2.5
+# a= 100
+# b= 2.3333333333333335
+# Result c= 42.857142857142854
